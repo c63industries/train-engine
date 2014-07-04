@@ -1,4 +1,3 @@
-train-engine
+The Train Engine
 ============
-
-A modular game engine.
+A module game engine by C63 Industries.
